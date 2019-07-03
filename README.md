@@ -1,2 +1,2 @@
 # node-pdf-stt
-Node PDF to Text
+Node app to transform PDF files in Text.

@@ -1,0 +1,23 @@
+{
+  "name": "pdf-stt",
+  "version": "1.0.0",
+  "description": "Node for PDF to Text",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01luisfonseca/node-pdf-stt.git"
+  },
+  "keywords": [
+    "Node",
+    "PDF"
+  ],
+  "author": "[Luis Fonseca] (01luisfonseca@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/01luisfonseca/node-pdf-stt/issues"
+  },
+  "homepage": "https://github.com/01luisfonseca/node-pdf-stt#readme"
+}
